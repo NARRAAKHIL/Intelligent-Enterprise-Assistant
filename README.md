@@ -17,8 +17,8 @@ Conversational Chat Interface • Predefined knowledge responses • Web-based U
 <img width="393" height="283" alt="image" src="https://github.com/user-attachments/assets/5d34e3f6-71ef-458c-9d5e-d1027d54e2b2" />
 
 # Implementation Code:
-# NARRA AKHIL
-# 212223230136
+NARRA AKHIL
+212223230136
 app.py
 ```
 from flask import Flask, render_template, request, jsonify
